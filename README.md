@@ -1,1 +1,1 @@
-My first project of Amazon clone using HTML and CSS.
+First project using HTML and CSS.
